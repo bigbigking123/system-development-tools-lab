@@ -1,0 +1,6 @@
+*   b0e9e3f (HEAD -> main) merge feature-b and resolve conflict
+|\  
+| * 651f9b9 (feature-b) feature-b uses fast mode
+* | 3d9161c (feature-a) feature-a uses safe mode
+|/  
+* 3896ee9 initial config
