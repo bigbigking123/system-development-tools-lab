@@ -49,3 +49,33 @@ python wordfreq.py
 运行优化程序：
 
 python wordfreq_fast.py
+
+## Performance Comparison
+
+### Original wordfreq.py
+
+Run 1:
+161.9639 ms
+
+Run 2:
+162.3845 ms
+
+Median:
+162.1742 ms
+
+
+### Optimized wordfreq_fast.py
+
+Run 1:
+42.8417 ms
+
+Run 2:
+36.6161 ms
+
+Median:
+39.7289 ms
+
+
+### Speedup
+
+162.1742 / 39.7289 = 4.08x
